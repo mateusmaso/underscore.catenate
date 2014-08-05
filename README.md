@@ -1,4 +1,4 @@
-underscore.catenate
+underscore.catenate [![Build Status](https://travis-ci.org/mateusmaso/underscore.catenate.svg?branch=master)](https://travis-ci.org/mateusmaso/underscore.catenate)
 ===================
 This library is an extension for Underscore which allows chaining functions into a single method that executes them in sequence.
 
