@@ -1,6 +1,5 @@
 underscore.catenate
 ===================
-
 This library is an extension for Underscore which allows chaining functions into a single method that executes them in sequence.
 
 ## Features
@@ -10,6 +9,13 @@ This library is an extension for Underscore which allows chaining functions into
 ## Dependencies
 
 * underscore.js (>= 1.5)
+
+## Node
+
+```javascript
+var _ = require('underscore');
+_.mixin(require('underscore.catenate'));
+```
 
 ## Examples
 
