@@ -5,7 +5,7 @@ This library is an extension for Underscore which allows chaining functions into
 
 ## Features
 
-* Catenate merged functions.
+* Merge functions.
 
 ## Dependencies
 
