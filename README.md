@@ -1,14 +1,15 @@
 underscore.catenate [![Build Status](https://travis-ci.org/mateusmaso/underscore.catenate.svg?branch=master)](https://travis-ci.org/mateusmaso/underscore.catenate)
 ===================
+
 This library is an extension for Underscore which allows chaining functions into a single method that executes them in sequence.
 
 ## Features
 
-* Catenate merged functions
+* Catenate merged functions.
 
 ## Dependencies
 
-* underscore.js (>= 1.5)
+* underscore.js (>= 1.5.0)
 
 ## Node
 

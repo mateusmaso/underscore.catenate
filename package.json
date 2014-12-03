@@ -1,7 +1,7 @@
 {
   "name": "underscore.catenate",
   "description": "Underscore helper for merging functions in the same context",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "author": "mateusmaso",
   "keywords": ["underscore", "javascript", "catenate"],
   "devDependencies": {
